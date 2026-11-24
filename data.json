@@ -1,7 +1,216 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T00:23:57.037Z",
+  "generatedAt": "2026-11-24T00:37:24.056Z",
   "terms": {
+    "summer": {
+      "rows": [
+        {
+          "id": "20232:34050",
+          "section": "34050",
+          "prefix": "IDSN",
+          "number": "428",
+          "title": "Overview of Intellectual Property Laws for       Creatives and Entrepreneurs                     ",
+          "enrolled": 21,
+          "capacity": 25,
+          "credits": 1
+        },
+        {
+          "id": "20232:34060",
+          "section": "34060",
+          "prefix": "IDSN",
+          "number": "510",
+          "title": "Integrative Practices Residential",
+          "enrolled": 13,
+          "capacity": 20,
+          "credits": 2
+        },
+        {
+          "id": "20232:34062",
+          "section": "34062",
+          "prefix": "IDSN",
+          "number": "515",
+          "title": "Professional Practices Residential",
+          "enrolled": 21,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20232:34073",
+          "section": "34073",
+          "prefix": "IDSN",
+          "number": "520",
+          "title": "Design Essentials",
+          "enrolled": 12,
+          "capacity": 20,
+          "credits": 3
+        },
+        {
+          "id": "20232:34083",
+          "section": "34083",
+          "prefix": "IDSN",
+          "number": "525",
+          "title": "Business Essentials",
+          "enrolled": 12,
+          "capacity": 20,
+          "credits": 3
+        },
+        {
+          "id": "20232:34085",
+          "section": "34085",
+          "prefix": "IDSN",
+          "number": "528",
+          "title": "Using Intellectual Property Laws to Protect Your Products and Ideas                              ",
+          "enrolled": 8,
+          "capacity": 25,
+          "credits": 2
+        },
+        {
+          "id": "20232:34091",
+          "section": "34091",
+          "prefix": "IDSN",
+          "number": "529",
+          "title": "Marketing Strategy for Startups",
+          "enrolled": 21,
+          "capacity": 25,
+          "credits": 3
+        },
+        {
+          "id": "20232:34097",
+          "section": "34097",
+          "prefix": "IDSN",
+          "number": "534",
+          "title": "Fueling Business with Exponential Technologies",
+          "enrolled": 24,
+          "capacity": 28,
+          "credits": 2
+        },
+        {
+          "id": "20232:34103",
+          "section": "34103",
+          "prefix": "IDSN",
+          "number": "540",
+          "title": "Processes and Perspectives",
+          "enrolled": 13,
+          "capacity": 25,
+          "credits": 4
+        },
+        {
+          "id": "20232:34113",
+          "section": "34113",
+          "prefix": "IDSN",
+          "number": "545",
+          "title": "Integrative Project",
+          "enrolled": 24,
+          "capacity": 30,
+          "credits": 3
+        },
+        {
+          "id": "20232:34123",
+          "section": "34123",
+          "prefix": "IDSN",
+          "number": "550",
+          "title": "Opportunity and Uncertainty",
+          "enrolled": 19,
+          "capacity": 25,
+          "credits": 4
+        },
+        {
+          "id": "20232:34143",
+          "section": "34143",
+          "prefix": "IDSN",
+          "number": "560",
+          "title": "Narrative and Storytelling",
+          "enrolled": 20,
+          "capacity": 25,
+          "credits": 4
+        },
+        {
+          "id": "20232:34170",
+          "section": "34170",
+          "prefix": "IDSN",
+          "number": "585",
+          "title": "Capstone",
+          "enrolled": 13,
+          "capacity": 25,
+          "credits": 3
+        },
+        {
+          "id": "20232:34181",
+          "section": "34181",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 3,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20232:34186",
+          "section": "34186",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20232:34187",
+          "section": "34187",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 3,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20232:34190",
+          "section": "34190",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 3,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20232:34191",
+          "section": "34191",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 4,
+          "capacity": 5,
+          "credits": null
+        }
+      ],
+      "totals": {
+        "enrollment": 236,
+        "capacity": 348,
+        "available": 112,
+        "sections": 18,
+        "sch": 607,
+        "omittedSections": 5,
+        "omittedEnrollment": 15
+      },
+      "excluded": [
+        {
+          "section": "34093",
+          "reason": "Cancelled"
+        },
+        {
+          "section": "34195",
+          "reason": "Cancelled"
+        }
+      ],
+      "code": 20232,
+      "label": "Summer 2023",
+      "url": "https://classes.usc.edu/term/20232/catalogue/school",
+      "snapshotAt": "2026-11-24T00:37:20.013Z",
+      "snapshot": "11/23/2026, 4:37:20 PM PST",
+      "error": null
+    },
     "fall": {
       "rows": [
         {
@@ -748,8 +957,8 @@
       "code": 20223,
       "label": "Fall 2022",
       "url": "https://classes.usc.edu/term/20223/catalogue/school",
-      "snapshotAt": "2026-11-24T00:23:51.946Z",
-      "snapshot": "11/23/2026, 4:23:51 PM PST",
+      "snapshotAt": "2026-11-24T00:37:23.497Z",
+      "snapshot": "11/23/2026, 4:37:23 PM PST",
       "error": null
     },
     "spring": {
@@ -1447,217 +1656,8 @@
       "code": 20231,
       "label": "Spring 2023",
       "url": "https://classes.usc.edu/term/20231/catalogue/school",
-      "snapshotAt": "2026-11-24T00:23:56.450Z",
-      "snapshot": "11/23/2026, 4:23:56 PM PST",
-      "error": null
-    },
-    "summer": {
-      "rows": [
-        {
-          "id": "20232:34050",
-          "section": "34050",
-          "prefix": "IDSN",
-          "number": "428",
-          "title": "Overview of Intellectual Property Laws for       Creatives and Entrepreneurs                     ",
-          "enrolled": 21,
-          "capacity": 25,
-          "credits": 1
-        },
-        {
-          "id": "20232:34060",
-          "section": "34060",
-          "prefix": "IDSN",
-          "number": "510",
-          "title": "Integrative Practices Residential",
-          "enrolled": 13,
-          "capacity": 20,
-          "credits": 2
-        },
-        {
-          "id": "20232:34062",
-          "section": "34062",
-          "prefix": "IDSN",
-          "number": "515",
-          "title": "Professional Practices Residential",
-          "enrolled": 21,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20232:34073",
-          "section": "34073",
-          "prefix": "IDSN",
-          "number": "520",
-          "title": "Design Essentials",
-          "enrolled": 12,
-          "capacity": 20,
-          "credits": 3
-        },
-        {
-          "id": "20232:34083",
-          "section": "34083",
-          "prefix": "IDSN",
-          "number": "525",
-          "title": "Business Essentials",
-          "enrolled": 12,
-          "capacity": 20,
-          "credits": 3
-        },
-        {
-          "id": "20232:34085",
-          "section": "34085",
-          "prefix": "IDSN",
-          "number": "528",
-          "title": "Using Intellectual Property Laws to Protect Your Products and Ideas                              ",
-          "enrolled": 8,
-          "capacity": 25,
-          "credits": 2
-        },
-        {
-          "id": "20232:34091",
-          "section": "34091",
-          "prefix": "IDSN",
-          "number": "529",
-          "title": "Marketing Strategy for Startups",
-          "enrolled": 21,
-          "capacity": 25,
-          "credits": 3
-        },
-        {
-          "id": "20232:34097",
-          "section": "34097",
-          "prefix": "IDSN",
-          "number": "534",
-          "title": "Fueling Business with Exponential Technologies",
-          "enrolled": 24,
-          "capacity": 28,
-          "credits": 2
-        },
-        {
-          "id": "20232:34103",
-          "section": "34103",
-          "prefix": "IDSN",
-          "number": "540",
-          "title": "Processes and Perspectives",
-          "enrolled": 13,
-          "capacity": 25,
-          "credits": 4
-        },
-        {
-          "id": "20232:34113",
-          "section": "34113",
-          "prefix": "IDSN",
-          "number": "545",
-          "title": "Integrative Project",
-          "enrolled": 24,
-          "capacity": 30,
-          "credits": 3
-        },
-        {
-          "id": "20232:34123",
-          "section": "34123",
-          "prefix": "IDSN",
-          "number": "550",
-          "title": "Opportunity and Uncertainty",
-          "enrolled": 19,
-          "capacity": 25,
-          "credits": 4
-        },
-        {
-          "id": "20232:34143",
-          "section": "34143",
-          "prefix": "IDSN",
-          "number": "560",
-          "title": "Narrative and Storytelling",
-          "enrolled": 20,
-          "capacity": 25,
-          "credits": 4
-        },
-        {
-          "id": "20232:34170",
-          "section": "34170",
-          "prefix": "IDSN",
-          "number": "585",
-          "title": "Capstone",
-          "enrolled": 13,
-          "capacity": 25,
-          "credits": 3
-        },
-        {
-          "id": "20232:34181",
-          "section": "34181",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 3,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20232:34186",
-          "section": "34186",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20232:34187",
-          "section": "34187",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 3,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20232:34190",
-          "section": "34190",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 3,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20232:34191",
-          "section": "34191",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 4,
-          "capacity": 5,
-          "credits": null
-        }
-      ],
-      "totals": {
-        "enrollment": 236,
-        "capacity": 348,
-        "available": 112,
-        "sections": 18,
-        "sch": 607,
-        "omittedSections": 5,
-        "omittedEnrollment": 15
-      },
-      "excluded": [
-        {
-          "section": "34093",
-          "reason": "Cancelled"
-        },
-        {
-          "section": "34195",
-          "reason": "Cancelled"
-        }
-      ],
-      "code": 20232,
-      "label": "Summer 2023",
-      "url": "https://classes.usc.edu/term/20232/catalogue/school",
-      "snapshotAt": "2026-11-24T00:23:57.036Z",
-      "snapshot": "11/23/2026, 4:23:57 PM PST",
+      "snapshotAt": "2026-11-24T00:37:24.056Z",
+      "snapshot": "11/23/2026, 4:37:24 PM PST",
       "error": null
     }
   }
