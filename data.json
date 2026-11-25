@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T23:57:43.692Z",
+  "generatedAt": "2026-11-25T23:41:34.830Z",
   "terms": {
     "summer": {
       "rows": [
@@ -207,8 +207,8 @@
       "code": 20232,
       "label": "Summer 2023",
       "url": "https://classes.usc.edu/term/20232/catalogue/school",
-      "snapshotAt": "2026-11-24T23:57:40.316Z",
-      "snapshot": "11/24/2026, 3:57:40 PM PST",
+      "snapshotAt": "2026-11-25T23:41:30.236Z",
+      "snapshot": "11/25/2026, 3:41:30 PM PST",
       "error": null
     },
     "fall": {
@@ -957,8 +957,8 @@
       "code": 20223,
       "label": "Fall 2022",
       "url": "https://classes.usc.edu/term/20223/catalogue/school",
-      "snapshotAt": "2026-11-24T23:57:43.109Z",
-      "snapshot": "11/24/2026, 3:57:43 PM PST",
+      "snapshotAt": "2026-11-25T23:41:34.114Z",
+      "snapshot": "11/25/2026, 3:41:34 PM PST",
       "error": null
     },
     "spring": {
@@ -1656,8 +1656,8 @@
       "code": 20231,
       "label": "Spring 2023",
       "url": "https://classes.usc.edu/term/20231/catalogue/school",
-      "snapshotAt": "2026-11-24T23:57:43.692Z",
-      "snapshot": "11/24/2026, 3:57:43 PM PST",
+      "snapshotAt": "2026-11-25T23:41:34.830Z",
+      "snapshot": "11/25/2026, 3:41:34 PM PST",
       "error": null
     }
   }
